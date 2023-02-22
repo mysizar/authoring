@@ -9,17 +9,21 @@
 - [x] [Tables](#tab)
 
 
-<a name="extern"></a>[Github documentation](https://help.github.com/en "Github documentation")
+## <a name="extern"></a>External Link
+[Github documentation](https://help.github.com/en "Github documentation")
 
+## Internal Link
 [Images Folder](/images)
 
-<a name="logo"></a>![images](/images/logo.png "Logo")
+## <a name="logo"></a>Images
+![images](/images/logo.png "Logo")
 
-emoji :smile:
+## Emojis
+:smile: 🖖 👍 :muscle:
 
-<a name="tab"></a>Tabelle
+## <a name="tab"></a>Tables
+Tabelle
 | Namen         | Klasse        |
 | ------------- |--------------:|
 | Zeile 1       | DCI WD        |
 | Zeile 2       | DCI JB        |
-
