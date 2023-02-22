@@ -1,29 +1,29 @@
 # Github Flavoured Markdown
 
-## Create checkboxes
+## Checkboxes
 
 - [x] [External Link](#extern)
-- [x] Internal Link
+- [x] [Internal Link](#intern)
 - [x] [Images](#logo)
-- [x] Emojis
+- [x] [Emojis](#emo)
 - [x] [Tables](#tab)
 
 
 ## <a name="extern"></a>External Link
 [Github documentation](https://help.github.com/en "Github documentation")
 
-## Internal Link
+## <a name="intern"></a>Internal Link
 [Images Folder](/images)
 
 ## <a name="logo"></a>Images
-![images](/images/logo.png "Logo")
+![image](/images/logo.png "Logo")
 
-## Emojis
+## <a name="emo"></a>Emojis
 :smile: 🖖 👍 :muscle:
 
 ## <a name="tab"></a>Tables
-Tabelle
+Table One
 | Namen         | Klasse        |
 | ------------- |--------------:|
-| Zeile 1       | DCI WD        |
-| Zeile 2       | DCI JB        |
+| Name  1       | DCI WD        |
+| Name  2       | DCI JB        |
